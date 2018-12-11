@@ -8,6 +8,9 @@ An easy way to help you get started on building a smart contract.
 Contact me @
 
 Twitter: https://twitter.com/InEvent_
+
 LinkedIn: https://www.linkedin.com/in/eric-rosas-b53ba834/
+
 Email: Eric@EmpireAppDesignz.com
+
 www.empireappdesignz.com
